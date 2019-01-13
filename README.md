@@ -17,6 +17,8 @@ Graph related problems.
 	g.addEdge(11, 12)
 
 	represents the below graph.
-
+	
+	
+	![](resources/images/connected_components.png)
 
 
